@@ -8,3 +8,11 @@ Permite agregar un resolvedor personalizado, por ejemplo: "https://n2t.net/".
 Permite elegir cómo es que se asignará el nuevo ARK. Entre las opciones está automatizarlo o agregar de forma manual.
 
 Personalmente maqueto XML-JATS, si te interesa me puedes contactar a mi correo contacto@gestioneditorial.cl
+
+# Instalación
+
+1. Diríjase al menú de módulos y presione el botón de agregar nuevos módulos.
+2. Cargue el archivo comprimido .tar.gz (no le funcionará otro tipo de compresión)
+3. Presione el botón de instalar.
+4. Busque el módulo en la lista de módulos instalados y actívelo.
+5. El módulo aparecerá con el nombre ARK en la tabla de contenidos"
